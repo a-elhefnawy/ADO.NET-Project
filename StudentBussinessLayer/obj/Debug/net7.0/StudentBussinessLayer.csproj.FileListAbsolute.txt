@@ -1,0 +1,15 @@
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentBussinessLayer\bin\Debug\net7.0\StudentBussinessLayer.deps.json
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentBussinessLayer\bin\Debug\net7.0\StudentBussinessLayer.dll
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentBussinessLayer\bin\Debug\net7.0\StudentBussinessLayer.pdb
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentBussinessLayer\bin\Debug\net7.0\StudentDataAccessLayer.dll
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentBussinessLayer\bin\Debug\net7.0\StudentDataAccessLayer.pdb
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentBussinessLayer\obj\Debug\net7.0\StudentBussinessLayer.csproj.AssemblyReference.cache
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentBussinessLayer\obj\Debug\net7.0\StudentBussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentBussinessLayer\obj\Debug\net7.0\StudentBussinessLayer.AssemblyInfoInputs.cache
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentBussinessLayer\obj\Debug\net7.0\StudentBussinessLayer.AssemblyInfo.cs
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentBussinessLayer\obj\Debug\net7.0\StudentBussinessLayer.csproj.CoreCompileInputs.cache
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentBussinessLayer\obj\Debug\net7.0\StudentBussinessLayer.csproj.CopyComplete
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentBussinessLayer\obj\Debug\net7.0\StudentBussinessLayer.dll
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentBussinessLayer\obj\Debug\net7.0\refint\StudentBussinessLayer.dll
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentBussinessLayer\obj\Debug\net7.0\StudentBussinessLayer.pdb
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentBussinessLayer\obj\Debug\net7.0\ref\StudentBussinessLayer.dll

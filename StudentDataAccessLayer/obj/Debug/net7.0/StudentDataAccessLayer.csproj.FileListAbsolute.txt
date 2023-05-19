@@ -1,0 +1,12 @@
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentDataAccessLayer\bin\Debug\net7.0\StudentDataAccessLayer.deps.json
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentDataAccessLayer\bin\Debug\net7.0\StudentDataAccessLayer.dll
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentDataAccessLayer\bin\Debug\net7.0\StudentDataAccessLayer.pdb
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentDataAccessLayer\obj\Debug\net7.0\StudentDataAccessLayer.csproj.AssemblyReference.cache
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentDataAccessLayer\obj\Debug\net7.0\StudentDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentDataAccessLayer\obj\Debug\net7.0\StudentDataAccessLayer.AssemblyInfoInputs.cache
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentDataAccessLayer\obj\Debug\net7.0\StudentDataAccessLayer.AssemblyInfo.cs
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentDataAccessLayer\obj\Debug\net7.0\StudentDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentDataAccessLayer\obj\Debug\net7.0\StudentDataAccessLayer.dll
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentDataAccessLayer\obj\Debug\net7.0\refint\StudentDataAccessLayer.dll
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentDataAccessLayer\obj\Debug\net7.0\StudentDataAccessLayer.pdb
+D:\ITI\ado.net\day1\lab08\AdoCourse\StudentDataAccessLayer\obj\Debug\net7.0\ref\StudentDataAccessLayer.dll
